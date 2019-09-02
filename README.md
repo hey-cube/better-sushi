@@ -1,3 +1,7 @@
+[![Version](https://vsmarketplacebadge.apphb.com/version/hey-cube.better-sushi.svg)](https://marketplace.visualstudio.com/items?itemName=hey-cube.better-sushi)
+[![Installs](https://vsmarketplacebadge.apphb.com/installs/hey-cube.better-sushi.svg)](https://marketplace.visualstudio.com/items?itemName=hey-cube.better-sushi)
+[![Ratings](https://vsmarketplacebadge.apphb.com/rating/hey-cube.better-sushi.svg)](https://marketplace.visualstudio.com/items?itemName=hey-cube.better-sushi)
+
 # better-sushi
 
 This extension make everything sushi.
