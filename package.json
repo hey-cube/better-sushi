@@ -3,6 +3,8 @@
   "displayName": "better-sushi",
   "description": "",
   "version": "0.0.1",
+  "publisher": "hey-cube",
+  "license": "MIT",
   "engines": {
     "vscode": "^1.37.0"
   },
@@ -38,5 +40,9 @@
     "typescript": "^3.3.1",
     "tslint": "^5.12.1",
     "vscode-test": "^1.0.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/hey-cube/better-sushi"
   }
 }
